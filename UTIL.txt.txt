@@ -1,1 +1,3 @@
-utility function of heh verergrel
+utility function of 
+Git is very useful these day
+Helps many developers
